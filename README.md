@@ -1,5 +1,6 @@
 ### [BeatSaber自作ツールの紹介](https://github.com/rynan4818/rynan4818.github.io/blob/master/tool_Introduction.md)
-
+* [BeatSaber-mod対応状況](https://github.com/rynan4818/rynan4818.github.io/wiki/BeatSaber-mod%E5%AF%BE%E5%BF%9C%E7%8A%B6%E6%B3%81)
+* [ChroMapper-Plugin対応状況](https://github.com/rynan4818/rynan4818.github.io/wiki/ChroMapper-Plugin%E5%AF%BE%E5%BF%9C%E7%8A%B6%E6%B3%81)
 <!--
 **rynan4818/rynan4818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
